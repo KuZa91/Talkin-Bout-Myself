@@ -1,10 +1,10 @@
 # Talkin-Bout-Myself
 Just some informations about Myself
 
-Hello World! I'm Paolo Marcoccia, a 25 years old student living near Rome(Italy),
-my initiation in the huge world of informatics has begun when i was a 13 years old boy by starting programming games with rpg-maker, also if that may not be considered a "real" software environment i moved the first step in the world of informatics with that starting to using variables,switch loop ecc...
-Moved by this unusual passion i decided to choose an informatic high school where i had learn the basis of software programming, starting with Java, proceeding with c,c++,html php and dbms with a little break on assemblier, just enough to understand the machine execution procedure with a low level envioronment,i graduated in 2011 as an informatic engineer with 91/100.
-After high school i took a deviation from my actual path and i studied Physics and Astrophysics at "La Sapienza" in Rome where i mainly used c for scientific programmation and i began to learn how to write in Latex.
+Hello World! I'm Paolo Marcoccia, a 26 years old student living near Rome(Italy),
+my initiation in the huge world of informatics has begun when i was just a 13 years old boy, by starting programming games with rpg-maker. Even though that may not be considered a "real" software environment, i moved the first steps in the world of informatics with that, by starting to using variables,switch loop ecc...
+Moved by this unusual passion, i decided to choose an informatic high school where i have learnt the basis of software programming, starting with Java, proceeding with c,c++,html php and dbms, with a little break on assemblier, just enough to understand the machine execution procedure with a low level envioronment,i graduated in 2011 as an informatic engineer with 91/100.
+After high school, i took a deviation from my actual path and i studied Physics and Astrophysics at "La Sapienza" in Rome where i mainly used c for scientific programmation, and i began to learn how to write in Latex.
 I graduated in 2015 with 103/110 and i started the same year the second level degree in Astronomy and Astrophysics in the same university.
 I'm actually using hidl,python (mainly with healpy and numpy modules) and fortran 90 for applications of informatics in the field of Mathematics,Physics,Astrophysics and Statistics, hoping to graduate in 2017.
 Have fun,thx for the interest ;3
